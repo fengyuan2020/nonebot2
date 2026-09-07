@@ -30,6 +30,7 @@ toc_max_heading_level: 2
 
 ### 🍻 插件发布
 
+- Plugin: Komari 探针状态截图 [@noneflow](https://github.com/noneflow) ([#4161](https://github.com/nonebot/nonebot2/pull/4161))
 - Plugin: Chikari_Yinpa_Fix [@noneflow](https://github.com/noneflow) ([#4150](https://github.com/nonebot/nonebot2/pull/4150))
 - Plugin: 退休倒计时 [@noneflow](https://github.com/noneflow) ([#4159](https://github.com/nonebot/nonebot2/pull/4159))
 - Plugin: Mimo Console [@noneflow](https://github.com/noneflow) ([#4132](https://github.com/nonebot/nonebot2/pull/4132))
